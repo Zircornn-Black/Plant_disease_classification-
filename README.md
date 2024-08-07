@@ -124,7 +124,8 @@ The horizontal bar chart shows the distribution of images across different class
   
 ## Model Evaluation
 
-![image](https://github.com/user-attachments/assets/d910a9da-cfc7-4e37-a87e-b49d68b54653)
+![image](https://github.com/user-attachments/assets/b46c217e-8fb7-4b88-9a26-7848e83a1319)
+
 
 
 
